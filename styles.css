@@ -1,0 +1,26 @@
+body {
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 90%;
+    text-align: center;
+}
+
+.container {
+    margin-top: 24px;
+}
+
+#gc {
+    border-left: 4px solid #FC671D;
+    border-right: 4px solid #0BC0D3;
+    border-radius: 12px;
+}
+
+.fonte {
+    color: gray;
+    letter-spacing: -0.04rem;
+}
+
+.fonte a {
+    text-decoration: none;
+    color: #2C006A;
+}
